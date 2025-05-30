@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371442000945",
+    "project_id": "cajeroapp-f5a48",
+    "storage_bucket": "cajeroapp-f5a48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371442000945:android:5764959e912a0c2c682110",
+        "android_client_info": {
+          "package_name": "com.example.cajero_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfJuxOQsY901u16nQhHy6PTTXK_LifUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
